@@ -10,6 +10,8 @@ Full Stack Developer passionate about creating efficient, scalable, and user-fri
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marisiromanillos&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&langs_count=12)
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
