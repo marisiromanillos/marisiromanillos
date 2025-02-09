@@ -24,100 +24,34 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-        <br>JavaScript
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-        <br>React
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://redux.js.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
-        <br>Redux
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-        <br>TypeScript
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://nextjs.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
-        <br>Next.js
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://vuejs.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" />
-        <br>Vue.js
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://nodejs.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-        <br>Node.js
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://expressjs.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express" />
-        <br>Express
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://hono.dev">
-        <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" width="50" height="50" alt="Hono" />
-        <br>Hono
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://bun.sh">
-        <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="50" height="50" alt="Bun" />
-        <br>Bun
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-        <br>MySQL
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 📊 GitHub Stats
-
-<!-- Contributions by timeframe -->
 <p align="left">
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-FF7F50?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&layout=compact&theme=tokyonight&count_private=true)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=marisiromanillos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories)
 
-### 🔥 Languages
+## 📈 GitHub Contribution Graph
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&layout=compact&theme=tokyonight&count_private=true" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marisiromanillos&theme=github)
 
 
 <h3 align="left">
@@ -131,7 +65,8 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 </div>
 
----
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=marisiromanillos&color=blueviolet" alt="Profile Views" />
 </div>
+
+
