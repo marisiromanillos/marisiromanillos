@@ -91,8 +91,7 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 ### 📊 GitHub Stats
 
-<!-- Comprehensive Stats Card -->
-![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marisiromanillos&theme=tokyonight)
+<!-- Comprehensive Stats Card --
 
 <!-- Contributions by timeframe -->
 <p align="left">
