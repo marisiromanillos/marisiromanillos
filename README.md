@@ -1,6 +1,6 @@
-# Hi there! 👋 
-
-# Hello world 🗺️
+<h1 align="left">
+<img src="https://raw.githubusercontent.com/marisiromanillos/marisiromanillos/5c5dea9dd22ef7eff04c7559cf2ac05b854b7555/12.svg" width="40" height="40"> Hi there
+</h1>
 
 <div align="left">
   <picture>
@@ -16,7 +16,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2D9596&background=FF000000&center=false&vCenter=true&width=435&lines=%3E+git+init+career;%3E+git+add+.%2Fskills%2F*;%3E+git+commit+-m+%27let's+code%27;%3E+git+push+origin+main" alt="Typing SVG" />
 </picture>
 
-## About Me 🚀
+## About Me 
 
 Full Stack Developer assionate about building scalable, user-centric web applications that address real-world challenges. 
 
@@ -105,14 +105,13 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 ### 📊 GitHub Stats
 
-<!-- Comprehensive Stats Card --
-
 <!-- Contributions by timeframe -->
 <p align="left">
   
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=marisiromanillos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories)
 
 ### 🔥 Languages
 
@@ -121,7 +120,9 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 </p>
 
 
-### 🤝 Let's Connect!
+<h3 align="left">
+<img src="https://raw.githubusercontent.com/marisiromanillos/marisiromanillos/5c5dea9dd22ef7eff04c7559cf2ac05b854b7555/12.svg" width="40" height="40"> Let's Connect!
+</h3>
 
 <div align="left">
   
@@ -131,6 +132,6 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 </div>
 
 ---
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=marisiromanillos&color=blueviolet" alt="Profile Views" />
 </div>
