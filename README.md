@@ -1,6 +1,20 @@
 # Hi there! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Open+to+Work+%F0%9F%92%BC)](https://git.io/typing-svg)
+# Hello world 🗺️
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC;Let's+collaborate!+%F0%9F%A4%9D;Building+the+future+%F0%9F%8C%9F" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=000000&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC;Let's+collaborate!+%F0%9F%A4%9D;Building+the+future+%F0%9F%8C%9F" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2D9596&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC;Let's+collaborate!+%F0%9F%A4%9D;Building+the+future+%F0%9F%8C%9F" alt="Typing SVG" />
+  </picture>
+</div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=FF000000&center=false&vCenter=true&width=435&lines=%3E+git+init+career;%3E+git+add+.%2Fskills%2F*;%3E+git+commit+-m+%27let's+code%27;%3E+git+push+origin+main" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=000000&background=FF000000&center=false&vCenter=true&width=435&lines=%3E+git+init+career;%3E+git+add+.%2Fskills%2F*;%3E+git+commit+-m+%27let's+code%27;%3E+git+push+origin+main" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2D9596&background=FF000000&center=false&vCenter=true&width=435&lines=%3E+git+init+career;%3E+git+add+.%2Fskills%2F*;%3E+git+commit+-m+%27let's+code%27;%3E+git+push+origin+main" alt="Typing SVG" />
+</picture>
 
 ## About Me 🚀
 
