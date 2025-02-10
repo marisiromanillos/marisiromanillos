@@ -18,7 +18,7 @@
 
 ## About Me 
 
-Full Stack Developer assionate about building scalable, user-centric web applications that address real-world challenges. 
+Full Stack Developer passionate about building scalable, user-centric web applications that address real-world challenges. 
 
 I thrive in collaborative, cross-functional teams and agile environments, where I contribute to fast-paced development cycles and iterative problem-solving.
 
