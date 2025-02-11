@@ -50,11 +50,12 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&layout=compact&theme=tokyonight&count_private=true)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=marisiromanillos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true)
+
 
 
 <h3 align="left">
