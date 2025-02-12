@@ -57,11 +57,7 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=marisiromanillos&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&layout=compact&theme=tokyonight&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marisiromanillos&theme=tokyonight&include_all_commits=true&count_private=true)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisiromanillos&layout=compact&theme=dark)
 
 <h3 align="left">
 <img src="https://raw.githubusercontent.com/marisiromanillos/marisiromanillos/5c5dea9dd22ef7eff04c7559cf2ac05b854b7555/12.svg" width="40" height="40"> Let's Connect!
