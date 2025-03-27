@@ -67,7 +67,7 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marisi-romanillos/)
 
-
+:)
 </div>
 
 <div align="left">
