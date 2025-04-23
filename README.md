@@ -39,6 +39,7 @@ I thrive in collaborative, cross-functional teams and agile environments, where 
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Hono-FF7F50?style=for-the-badge&logo=hono&logoColor=white" />
+<img src="https://img.shields.io/badge/Elysia-FF7F50?style=for-the-badge&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Twig-BBE045?style=for-the-badge&logo=twig&logoColor=black" />
    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
