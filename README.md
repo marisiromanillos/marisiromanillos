@@ -3,11 +3,7 @@
 </h1>
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=000000&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2D9596&background=FF000000&center=false&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
-  </picture>
+  <h1>Software Engineer</h1>
 </div>
 
 <picture>
