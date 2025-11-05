@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-  <h1>Software Engineer</h1>
+  <h1>Full Stack Software Engineer</h1>
 </div>
 
 <picture>
