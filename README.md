@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-  <h1>Full Stack Software Engineer</h1>
+  <h1>Full Stack Product Engineer</h1>
 </div>
 
 <picture>
@@ -13,7 +13,8 @@
 </picture>
 
 ## About Me 
-
+Senior Product Engineer with 6+ years of commercial experience building optimized, user-focused web applications serving 900,000+ users. Confident using TypeScript, React, AWS Services, database design & optimization, and end to end testing. Experienced at delivering scalable front-end and back-end solutions in fast-paced environments, with a strong focus on clean agentic code, performance, and collaboration.
+Good self-starter with experience working in small teams or being the only member of the engineering team.
 
 
 ## 🛠️ Tech Stack
